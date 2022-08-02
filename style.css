@@ -1,6 +1,6 @@
 body {
-    width: 4320px;
-    height : 2880px;
+    width: 1600px;
+    height : 1600px;
     background-color: hsl(30, 38%, 92%);
 }
 
@@ -8,7 +8,6 @@ body {
 #primary_box {
     width: 1440px;
     background-color: hsl(0, 0%, 100%);
-    margin: 720px 1440px 720px 1440px  ;
     display: flex;
 }
 div.inl_pb_2 {
